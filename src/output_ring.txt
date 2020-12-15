@@ -1,0 +1,24 @@
+The size of the ring is : 7
+4, 6, 9, 2, 3, 1, 5
+The curr node is 4
+
+Remove the current node.
+The curr node is 9
+The size of the ring after removal is : 6
+4, 6, 2, 3, 1, 5
+The curr node is 2
+Remove the current node.
+The size of the ring after removal is : 5
+4, 6, 3, 1, 5
+The curr node is 3
+Remove the current node.
+The size of the ring after removal is : 4
+4, 6, 1, 5
+
+The curr node is 4
+Remove the current node.
+The size of the ring after removal is : 3
+6, 1, 5
+
+After removing all nodes.
+The size of the ring is : 0

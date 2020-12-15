@@ -1,0 +1,7 @@
+[1:(4,0), 2:(3,0), 3:(1,0), 4:(2,0)]
+serving 1:(4,2)
+1:(4,4) is finished.
+serving 2:(3,2)
+2:(3,4) is finished.
+3:(1,2) is finished.
+4:(2,2) is finished.

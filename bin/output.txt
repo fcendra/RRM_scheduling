@@ -1,0 +1,26 @@
+The original job list is:
+1:(4,0), 2:(3,0), 3:(3,0), 4:(2,0), 5:(3,0)
+Job being served: 1:(4,0)
+The current job list is: 1:(4,2), 2:(3,0), 3:(3,0), 4:(2,0), 5:(3,0)
+Job being served: 2:(3,0)
+The current job list is: 1:(4,2), 2:(3,2), 3:(3,0), 4:(2,0), 5:(3,0)
+Job being served: 3:(3,0)
+The current job list is: 1:(4,2), 2:(3,2), 3:(3,2), 4:(2,0), 5:(3,0)
+Job being served: 4:(2,0)
+4:(2,2) is done.
+The current job list is: 1:(4,2), 2:(3,2), 3:(3,2), 5:(3,0)
+Job being served: 5:(3,0)
+The current job list is: 1:(4,2), 2:(3,2), 3:(3,2), 5:(3,2)
+Job being served: 1:(4,2)
+1:(4,4) is done.
+The current job list is: 2:(3,2), 3:(3,2), 5:(3,2)
+Job being served: 2:(3,2)
+2:(3,4) is done.
+The current job list is: 3:(3,2), 5:(3,2)
+Job being served: 3:(3,2)
+3:(3,4) is done.
+The current job list is: 5:(3,2)
+Job being served: 5:(3,2)
+5:(3,4) is done.
+The current job list is: 
+All jobs finished after 18 hours.
